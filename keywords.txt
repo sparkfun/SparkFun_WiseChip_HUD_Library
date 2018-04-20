@@ -1,0 +1,96 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WiseChipHUD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+WiseChipHUD	KEYWORD2
+begin	KEYWORD2
+AdjustIconLevel	KEYWORD2
+D01	KEYWORD2
+CC1	KEYWORD2
+D02	KEYWORD2
+CC2	KEYWORD2
+D03	KEYWORD2
+CC3	KEYWORD2
+D04	KEYWORD2
+CC4	KEYWORD2
+D05	KEYWORD2
+CC5	KEYWORD2
+D06	KEYWORD2
+CC6	KEYWORD2
+D07	KEYWORD2
+CC7	KEYWORD2
+D08	KEYWORD2
+CC8	KEYWORD2
+D0x	KEYWORD2
+C01	KEYWORD2
+C02	KEYWORD2
+H01	KEYWORD2
+K01	KEYWORD2
+M01	KEYWORD2
+C03	KEYWORD2
+K02	KEYWORD2
+M03	KEYWORD2
+P01	KEYWORD2
+P02	KEYWORD2
+P03	KEYWORD2
+T01	KEYWORD2
+T02	KEYWORD2
+S01_BAR	KEYWORD2
+S15_BAR	KEYWORD2
+compassCircle	KEYWORD2
+compassArrows	KEYWORD2
+radarDistanceUnits	KEYWORD2
+flag	KEYWORD2
+tirePressureAlert	KEYWORD2
+speedometerUnits	KEYWORD2
+destinationDistanceUnits	KEYWORD2
+turnDistanceUnits	KEYWORD2
+leftTunnel	KEYWORD2
+middleTunnel	KEYWORD2
+rightTunnel	KEYWORD2
+leftRoad	KEYWORD2
+middleRoad	KEYWORD2
+rightRoad	KEYWORD2
+nav_Group	KEYWORD2
+nav_KeepLeft	KEYWORD2
+nav_TurnLeft	KEYWORD2
+nav_TurnRight	KEYWORD2
+nav_HardRight	KEYWORD2
+nav_HardLeft	KEYWORD2
+nav_UTurnLeft	KEYWORD2
+nav_UTurnRight	KEYWORD2
+nav_ContinueStraight	KEYWORD2
+nav_KeepRight	KEYWORD2
+radarDetector	KEYWORD2
+setHeading	KEYWORD2
+setDestinationDistance	KEYWORD2
+setRadarDistance	KEYWORD2
+setTurnDistance	KEYWORD2
+setTirePressure	KEYWORD2
+setSpeedometer	KEYWORD2
+setCallIcon	KEYWORD2
+clearAll	KEYWORD2
+IIC_Write_Command1	KEYWORD2
+IIC_Write_Data1	KEYWORD2
+IIC_Write_Data2	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+S1_2_3_Limit	LITERAL1
+S4_5_6_Limit	LITERAL1
+S7_8_9_Limit	LITERAL1
+S10_11_12_Limit	LITERAL1
+S13_14_Limit	LITERAL1
+S15_16_17_Limit	LITERAL1
