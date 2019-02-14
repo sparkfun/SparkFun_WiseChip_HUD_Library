@@ -2338,7 +2338,7 @@ void WiseChipHUD::IIC_Write_Data2(uint8_t IIC_Addr , uint16_t DataLen, const uin
 void WiseChipHUD::clearAll(void)
 {
 
-for(uint16_t i; i<230; i++){
+for(uint16_t i = 0; i<231; i++){
   AdjustIconLevel(i, 0x00);
 }
 
