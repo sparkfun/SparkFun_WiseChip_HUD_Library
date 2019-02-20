@@ -1,5 +1,4 @@
 SparkFun WiseChip HUD Library
-
 ========================================
 
 [![Qwiic Transparent OLED HUD](https://cdn.sparkfun.com/r/600-600/assets/parts/1/2/8/9/7/20180420_111849.jpg)](https://www.sparkfun.com/products/14691)
