@@ -15,7 +15,7 @@ WiseChipHUD::WiseChipHUD()
 }
 
 //Initialize the I2C port
-bool WiseChipHUD::begin(TwoWire &wirePort)
+void WiseChipHUD::begin(TwoWire &wirePort)
 {
   _i2cPort = &wirePort; //Grab which port the user wants us to use
   

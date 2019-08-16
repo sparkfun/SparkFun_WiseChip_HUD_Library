@@ -21,7 +21,7 @@ class WiseChipHUD
  public: 
   WiseChipHUD(void);
 
-  bool begin(TwoWire &wirePort = Wire); //If user doesn't specify then Wire will be used
+  void begin(TwoWire &wirePort = Wire); //If user doesn't specify then Wire will be used
 
   void AdjustIconLevel(uint16_t IconNo, uint16_t IconLevel);
   	void D01(uint8_t Action);
